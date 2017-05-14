@@ -1,8 +1,8 @@
-====
-TODO_PROJECT_NAME
-====
+======================
+Neural Network Figures
+======================
 
-TODO_PROJECT_SHORT_DESC
+Draw neural network figures with Matplotlib
 
 Note:
 
@@ -17,11 +17,11 @@ Contents:
    API <api>
    developer
 
-* Web site: TODO_PROJECT_WEB_SITE_URL
-* Online documentation: TODO_PROJECT_ONLINE_DOCUMENTATION_URL
-* Source code: TODO_PROJECT_GITHUB_URL
-* Issue tracker: TODO_PROJECT_ISSUE_TRACKER_URL
-* TODO_PYTHON_PACKAGE_NAME on PyPI: TODO_PROJECT_PYPI_URL
+* Web site: http://www.jdhp.org/software_en.html#nnfigs
+* Online documentation: http://nnfigs.readthedocs.org
+* Source code: https://github.com/jeremiedecock/neural-network-figures
+* Issue tracker: https://github.com/jeremiedecock/neural-network-figures/issues
+* nnfigs on PyPI: https://pypi.python.org/pypi/nnfigs
 
 Indices and tables
 ==================
