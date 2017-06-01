@@ -9,5 +9,12 @@
 
 ## Version 0.1
 
-- [ ] TODO
+- [ ] Add a generic multilayer helper function
+- [ ] Let it be compatible with Scikit-learn weights data structure (`clf.coefs_`)
+- [ ] Add examples in the README file
+
+## Version 1.0
+
+- [ ] Add it to PyPI
+- [ ] Propose this project as an optional tool for Scikit-learn ?
 
