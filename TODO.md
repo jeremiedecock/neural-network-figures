@@ -12,6 +12,7 @@
 - [ ] Add a generic multilayer helper function
 - [ ] Let it be compatible with Scikit-learn weights data structure (`clf.coefs_`)
 - [ ] Add examples in the README file
+    - [ ] Avantage à mettre en avant: marche avec tous les backends Matplotlib (Tk, Gtk, PNG, SVG, ...), les dessins peuvent être compléter avec matplotlib et est directement utilisable en mode inline dans les notebooks Jupyter
 
 ## Version 1.0
 
